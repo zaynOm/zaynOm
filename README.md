@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/zaynOm/zaynOm/blob/main/banner.png)](https://github.com/zaynOm)
+<!--[![MasterHead](https://github.com/zaynOm/zaynOm/blob/main/banner.png)](https://github.com/zaynOm)-->
 
 <div align="center">
   
