@@ -12,7 +12,9 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="50" height="50" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F6F700&repeat=false&width=435&lines=Hi+there%2C+I'm+Omar+Ouaziz)](https://git.io/typing-svg)
 
 
-I’m a Software Engineer. I love tech, coding and software 🧑🏻‍💻, the only way to feed my curiosity is by trying new technologies and learning new languages and frameworks
+I’m a junior Software Engineer. I love tech, coding and software 🧑🏻‍💻, the only way to feed my curiosity is by trying new technologies and learning new languages and frameworks.
+
+check out my portfolio at [ouaziz.tech](https://ouaziz.tech)
 
 <div align="start">
   
